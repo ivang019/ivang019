@@ -22,4 +22,4 @@ Earlier: data analyst at IMPLAN Guanajuato; economic evaluation of Banobras at E
 
 R (primary) · Python and SQL (working level)
 
-[LinkedIn]www.linkedin.com/in/iván-torres · ivango.torres@gmail.com
+[LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-torres) · ivango.torres@gmail.com
